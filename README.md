@@ -14,6 +14,13 @@ Link: https://www.youtube.com/watch?v=LW-N44fZ1wk&list=PL8iIphQOyG-Dp037UnFG0x8a
 - Lombok
 - Java Mail Sender
 - Postgres
+- RabbitMQ
+
+## Mensajeria
+
+- broker : RabbitMQ
+- site: https://api.cloudamqp.com/
+- exchange: default
 
 ### Utils 
 
