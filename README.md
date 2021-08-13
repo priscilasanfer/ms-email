@@ -16,7 +16,7 @@ Link: https://www.youtube.com/watch?v=LW-N44fZ1wk&list=PL8iIphQOyG-Dp037UnFG0x8a
 - Postgres
 - RabbitMQ
 
-## Mensajeria
+## Mensageria
 
 - broker : RabbitMQ
 - site: https://api.cloudamqp.com/
